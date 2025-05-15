@@ -55,8 +55,6 @@ Welcome to the **PowerFit India** data analysis project! This assignment focuses
 ![Screenshot 2025-05-15 115332](https://github.com/user-attachments/assets/961c879b-51da-4eaf-8a2d-e58750ac1cea)
 
 
-    ---
-
 ### 5. 📈 Segment Profitability Dashboard
 - Created interactive Pivot Table Dashboard with Slicers
 - Analyzed revenue by:
@@ -64,6 +62,9 @@ Welcome to the **PowerFit India** data analysis project! This assignment focuses
 - Insights on:
   - Average revenue per segment
   - Marketing focus recommendations
+ 
+    ![Screenshot 2025-05-15 115543](https://github.com/user-attachments/assets/e6aed5ed-34f9-4ede-88b5-a1d16b8766df)
+
 
 ### 6. 👥 Demographic Analysis
 - Pivot Tables created for:
@@ -72,7 +73,12 @@ Welcome to the **PowerFit India** data analysis project! This assignment focuses
     - 18–30: Youth
     - 31–45: Adult
     - 46+: Seniors
+   
+    
+![Screenshot 2025-05-15 115600](https://github.com/user-attachments/assets/a781745c-f4e8-4e7b-a944-1fce516e94c9)
 
+
+![Screenshot 2025-05-15 115608](https://github.com/user-attachments/assets/7b38900e-e520-4f16-8aa8-8ea65de158f2)
 
 ---
 
