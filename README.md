@@ -46,6 +46,9 @@ Welcome to the **PowerFit India** data analysis project! This assignment focuses
 - Calculated:
   - Total revenue by **Membership Type** (e.g., Premium, Family)
   - **City-wise** revenue using Pivot Tables
+ 
+    ![Screenshot 2025-05-15 115310](https://github.com/user-attachments/assets/7d9ce090-ae4b-4201-b815-57ab6c229186)
+
 
 ### 4. ⚠️ Low Engagement Flag
 - Applied Conditional Formatting to highlight:
