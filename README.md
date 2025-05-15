@@ -52,6 +52,11 @@ Welcome to the **PowerFit India** data analysis project! This assignment focuses
   - Attendance `< 4` AND Membership Duration `≥ 6 months`
   - These represent long-term but inactive members
 
+![Screenshot 2025-05-15 115332](https://github.com/user-attachments/assets/961c879b-51da-4eaf-8a2d-e58750ac1cea)
+
+
+    ---
+
 ### 5. 📈 Segment Profitability Dashboard
 - Created interactive Pivot Table Dashboard with Slicers
 - Analyzed revenue by:
@@ -67,6 +72,7 @@ Welcome to the **PowerFit India** data analysis project! This assignment focuses
     - 18–30: Youth
     - 31–45: Adult
     - 46+: Seniors
+
 
 ---
 
